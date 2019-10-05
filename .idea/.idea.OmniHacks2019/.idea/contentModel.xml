@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_OmniHacks2019.685745738.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Door.cs" t="Include" />
+          <e p="End1.cs" t="Include" />
+          <e p="End2.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="Key.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="Obstacles.cs" t="Include" />
+          <e p="Panel.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="level1.cs" t="Include" />
+          <e p="level2.cs" t="Include" />
+          <e p="level3.cs" t="Include" />
+          <e p="level4.cs" t="Include" />
+          <e p="level5.cs" t="Include" />
+          <e p="levelFiveButton.cs" t="Include" />
+          <e p="levelFourButton.cs" t="Include" />
+          <e p="levelOneButton.cs" t="Include" />
+          <e p="levelThreeButton.cs" t="Include" />
+          <e p="levelTwoButton.cs" t="Include" />
+        </e>
+      </e>
+      <e p="OmniHacks2019.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
